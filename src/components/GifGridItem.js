@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const GifGridiItem = ({title, url}) => {
+export const GifGridItem = ({title, url}) => {
 
     return (
         <div className="card animate__animated animate__fadeIn">
